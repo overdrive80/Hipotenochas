@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Hipotenochas</string>
+    <string name="instrucciones">Instrucciones</string>
+    <string name="instrucciones_texto">
+        El juego es tipo buscaminas:\n\nCuando pulsas en una casilla, sale
+        un número que identifica cuántas
+        hipotenochas hay alrededor.\n\nTen cuidado porque si pulsas en una
+        casilla que tenga una hipotenocha
+        escondida, perderás. Si crees o
+        tienes la certeza de que hay una
+        hipotenocha, haz un click largo
+        sobre la casilla para señalarla.\n\nNo hagas un click largo en una casilla
+        donde no hay una hipotenocha
+        porque perderás.\n\nGanas una vez hayas encontrado todas
+        las hipotenochas.
+       </string>
+    <string name="aceptar">Aceptar</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="nueva_partida">Nueva partida</string>
+    <string name="personaje">Personaje</string>
+    <string name="seleccionar_nivel">Selecciona el nivel</string>
+    <string name="seleccionar_hipotenocha">Selecciona la hipotenocha</string>
+    <string name="volver">Volver</string>
+    <string name="dificultad_seleccion">Dificultad seleccionada: </string>
+    <string-array name="niveles">
+        <item>Principiante</item>
+        <item>Amateur</item>
+        <item>Avanzado</item>
+    </string-array>
+</resources>
